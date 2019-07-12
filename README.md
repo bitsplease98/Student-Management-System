@@ -1,8 +1,11 @@
 # Student-Management-System
 
 ## Technology Used:
+
 1.Python Language
+
 2.Tkinter Library
+
 3.SQLite Database
 
 ## Sample Code
@@ -13,6 +16,7 @@
 root=tk.Tk()
 root.title('Database App for Sqlite3')
 ```
+
 2.Insert new Record
 
 ```
@@ -27,3 +31,5 @@ connection.execute("INSERT INTO " + TABLE_NAME + " ( " +
 ## Screenshots
 
 ![img](https://github.com/blockchaintony/Student-Management-System/blob/master/app1.png)
+
+![img](https://github.com/blockchaintony/Student-Management-System/blob/master/app2.png)
